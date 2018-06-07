@@ -63,7 +63,7 @@ Not all the props below are used for majority of cases. Properties like `foundat
 Prop Name | Type | Description
 --- | --- | ---
 className | String | Classes to be applied to the input element.
-disabled | Function | Disables the input and the parent text field.
+disabled | Boolean | Disables the input and the parent text field.
 foundation | Function | The text field foundation.
 handleValueChange | Function | A callback function to update React Text Field's value.
 id | String | The `<input>` id attribute.
